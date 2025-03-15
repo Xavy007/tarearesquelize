@@ -1,0 +1,23 @@
+{
+  "development": {
+  "username": "postgres",
+  "password": "123456",
+  "database": "posventas",
+  "host": "127.0.0.1",
+  "dialect": "postgres"
+  },
+  "test": {
+  "username": "postgres",
+  "password": "mi_contraseña",
+  "database": "posventas_test",
+  "host": "127.0.0.1",
+  "dialect": "postgres"
+  },
+  "production": {
+  "username": "postgres",
+  "password": "mi_contraseña",
+  "database": "posventas_prod",
+  "host": "127.0.0.1",
+  "dialect": "postgres"
+  }
+ }
